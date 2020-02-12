@@ -5,7 +5,7 @@ import {
 } from './actionTypes';
 
 const initialState = {
-  title: "FooBar",
+  title: "FooBar!",
   currency: "USD",
   watching: "BTC, ETH, XRP"
 }
